@@ -1,4 +1,4 @@
-name: Beacons
+name: BEACONS
 favicon: null
 layout_spectrum: 0.8668635578360409
 typography_spectrum: 0.23008826305158436
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#fffffd'
+    - '#22202e'
+    - '#bb875f'
+    - '#efc885'
+    - '#62a0a5'
   brandStrength: 0.6265794327482581
-  lightness: 0.40800941945053637
+  lightness: 0.875
   saturation: 0.6456971419975162
   rhythmicContrast: 0.8239097825717181
 purpose: []
