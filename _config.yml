@@ -1,6 +1,6 @@
 name: BEACONS
 favicon: null
-layout_spectrum: 0.55433
+layout_spectrum: 0.50031
 typography_spectrum: 0.37987
 title: Atlanta Deserves Better Districts
 cta:
@@ -22,8 +22,8 @@ color:
     - '#bb875f'
     - '#efc885'
     - '#62a0a5'
-  brandStrength: 0.6265794327482581
-  lightness: 0.6875
-  saturation: 0.3125
-  rhythmicContrast: 1
+  brandStrength: 0.25
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
